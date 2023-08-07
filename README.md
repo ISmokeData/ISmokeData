@@ -5,7 +5,9 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemicolonML&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DhanrajVerma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/SemicolonML)](https://twitter.com/SemicolonML)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DhanrajVerma)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
