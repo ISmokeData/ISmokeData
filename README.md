@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Dhanraj Verma</h1>
 🔭  I’m currently learning Data Science<br>💬 Ask me about  Maachine Learning<br>⚡ Fun fact AI is fun
 <img align="right" height="150" src="https://blog.imarticus.org/wp-content/uploads/2020/06/bh.gif"  />
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemicolonML&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/SemicolonML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SemicolonML" height="30" width="40" /></a>
-<!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DhanrajVerma) -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML) 
+
 
 <h3 align="left">Languages and Tools:</h3>
 
