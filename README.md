@@ -3,7 +3,7 @@
 🔭  I’m currently learning Data Science<br>💬 Ask me about  Maachine Learning<br>⚡ Fun fact AI is fun
 <img align="right" height="150" src="https://blog.imarticus.org/wp-content/uploads/2020/06/bh.gif"  />
 ---
-[![](https://visitcount.itsvg.in/api?id=SemicolonML&icon=1&color=6)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SemicolonML&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
 <h3 align="left">Connect with me:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DhanrajVerma) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML) 
 <h3 align="left">Languages and Tools:</h3>
