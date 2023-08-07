@@ -1,4 +1,4 @@
-![MasterHead]()
+![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
 <h1 align="center">Hi 👋, I'm Dhanraj Verma</h1>
 🔭  I’m currently learning Data Science<br>💬 Ask me about  Maachine Learning<br>⚡ Fun fact AI is fun
 <img align="right" height="150" src="https://blog.imarticus.org/wp-content/uploads/2020/06/bh.gif"  />
