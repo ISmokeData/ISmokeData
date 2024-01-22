@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemicolonML&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
 
-# <h3 align="center">Connect with me:</h3>
-<a aling="center" href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SemicolonML" height="30" width="40" /></a>
+# <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SemicolonML" height="30" width="40" /></a>
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DhanrajVerma)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML)-->
 
