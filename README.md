@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanraj+Verma!;" />
-</h1>
+# </h1 align="center">
 🔭  I’m currently learning Data Science<br>💬 Ask me about  Maachine Learning<br>⚡ Fun fact AI is fun
 <!-- <img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:828/1*bhFifratH9DjKqMBTeQG5A.gif"  /> -->
 
@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SemicolonML) 
 
 
-# <h3 align="center">Languages and Tools:</h3>
+# <h3 align="center">⚒️Languages and Tools⚒️:</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
