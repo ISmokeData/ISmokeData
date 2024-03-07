@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanraj+Verma!;" />
 </h1>
 <h2 align ="center">💻  I’m currently learning Data Science<br>💬 Ask me about  Machine Learning<br>⚡ Fun fact AI is fun</h2>
-<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:828/1*bhFifratH9DjKqMBTeQG5A.gif"  />
+<img align="right" height="250" src="[https://miro.medium.com/v2/resize:fit:828/1*bhFifratH9DjKqMBTeQG5A.gif](https://images.app.goo.gl/Q6RkDEzFnQnQAtbe9)"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SemicolonML&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
 
