@@ -74,6 +74,12 @@
 </div>
 <hr/>
 
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/ISmokeData/ISmokeData/output/github-contribution-grid-snake-dark.svg)
+
+
+<hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
