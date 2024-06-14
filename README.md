@@ -15,7 +15,7 @@
 ⚡ Fun fact AI is fun <br>
 </div>
 <br>
-
+<h1></h1>
 <div align = "center">
 <h3 align="center">CONNECT WITH ME📱</h3>
 <a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="SemicolonML" height="90" width="100" /></a>
