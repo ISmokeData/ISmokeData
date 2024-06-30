@@ -18,8 +18,8 @@
 <h1></h1>
 <div align = "center">
 <h3 align="center">CONNECT WITH ME📱</h3>
-<a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin-horizontal.svg" alt="SemicolonML" height="90" width="100" /></a>
-<a href="https://x.com/I_SmokeData" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" alt="SemicolonML" height="30" width="40" />
+<a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin-horizontal.svg" alt="Linkdind" height="90" width="100" /></a>
+<a href="https://x.com/I_SmokeData" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" alt="X" height="30" width="40" />
 </a>
 </div>
 <hr/>
