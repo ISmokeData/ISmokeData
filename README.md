@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanraj+Verma!;" />
 </h1>
 <p>
-<h3>A passionate Data Scientist from India</h3>
+<h3>A passionate Data Scientist from India</h3> <img src="https://github.com/ISmokeData/ISmokeData/blob/main/animegif.gif" min-width="300px" max-width="300px" width="350px" align="right">
 <h4>💻  I’m currently learning Data Science and AI </h4>
 <h4>💬 Ask me about Machine Learning</h4>
 <h4>🤖 Fun fact AI is fun </h4>
@@ -64,15 +64,8 @@
     <i class="fa-brands fa-kaggle"></i>
 </details> 
 </div>
-<hr/>
 
-
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/ISmokeData/ISmokeData/output/github-contribution-grid-snake-dark.svg)
-
-
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>Github Stats📊</h2>
 <br>
 <div align=center>
 <img  width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ISmokeData&theme=github"/>
@@ -85,6 +78,28 @@
 <!-- <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ISmokeData&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 
 </div>
+<details>
+<summary><b>Feeding...</b></summary><br>
+	
+![Snake animation](https://raw.githubusercontent.com/ISmokeData/ISmokeData/output/github-contribution-grid-snake-dark.svg)
+	
+</details>
+
+<details>	
+<summary><b>📚Recent Projects/Activity</b></summary><br>
+
+1. 🎐 [Contribute in GSSoC'24](https://github.com/GSSoC24)
+2. 🎐 Working on Capstone Real Estate Project 
+
+</details>
+
+## Support Me on Buy Me a Coffee
+<a href="https://www.buymeacoffee.com/DhanrajVerma" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px; width: 140px;">
+</a>
+
+
+
 <!-- ✍️ Quote
 <h3 align = "center> You can have data without information, but you cannot have information without data
 
