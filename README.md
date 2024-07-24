@@ -1,31 +1,22 @@
 ![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
 <h1 align="center">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=ISmokeData&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=ISmokeData&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajverma" /> </p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dhanraj+Verma!;" />
 </h1>
+<p>
+<h3>A passionate Data Scientist from India</h3>
+<h4>💻  I’m currently learning Data Science and AI </h4>
+<h4>💬 Ask me about Machine Learning</h4>
+<h4>🤖 Fun fact AI is fun </h4>
+</p>
 
-<h3 align="center">A passionate Data Scientist from India</h3>
-<br/>
-
-<div align = "center", text>
-💻  I’m currently learning Data Science <br>
-<br>
-💬 Ask me about  Machine Learning <br>
-<br>
-⚡ Fun fact AI is fun <br>
-</div>
-<br>
-<h1></h1>
-<div align = "center">
-<h3 align="center">CONNECT WITH ME📱</h3>
+<details>
+<summary><b>Connect with me </b></summary><br>
 <a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin-horizontal.svg" alt="Linkdind" height="90" width="100" /></a>
-<a href="https://x.com/I_SmokeData" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" alt="X" height="30" width="40" />
-</a>
-</div>
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br>
+<a href="https://x.com/I_SmokeData" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" alt="X" height="30" width="40" /></a>
+</details>
+<details>
+<summary><b>⚒️Tech Stack⚒️</b></summary><br>
 <div align="center">
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
@@ -71,6 +62,7 @@
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-light.svg" alt="tableau" title="tableau"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" title="kaggle"/></code>
     <i class="fa-brands fa-kaggle"></i>
+</details> 
 </div>
 <hr/>
 
