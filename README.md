@@ -11,7 +11,7 @@
 </p>
 
 <details>
-<summary><b>Connect with me </b></summary><br>
+<summary><b>Click👆🏻 Connect with me </b></summary><br>
 <a href="https://www.linkedin.com/in/DhanrajVerma/" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin-horizontal.svg" alt="Linkdind" height="90" width="100" /></a>
 <a href="https://x.com/I_SmokeData" target="blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" alt="X" height="30" width="40" /></a>
 </details>
