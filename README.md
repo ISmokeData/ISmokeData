@@ -21,6 +21,7 @@
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" title="googlecolaboratory"/></code>
+	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/pycharm-light.svg" title="pycharm"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" title="Selenium"/></code>
@@ -36,10 +37,12 @@
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" alt="SciKitLearn title="SciKitLearn"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" title="TensorFlow"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" alt="Pytorch" title="Pytorch"/></code>
+	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/keras-light.svg" alt="keras" title="keras"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg" alt="Open CV" title="Open CV"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" title="Flask"/></code>
+	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/postman.svg" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-light.svg" title="mongoDB"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/></code>
 	<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" title="Kubernetes"/></code>
@@ -61,6 +64,7 @@
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="powerbi" title="powerbi"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-light.svg" alt="tableau" title="tableau"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/kaggle-light.svg" alt="kaggle" title="kaggle"/></code>
+	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/medium-light.svg" alt="medium" title="medium"/></code>
     <i class="fa-brands fa-kaggle"></i>
 </details> 
 </div>
