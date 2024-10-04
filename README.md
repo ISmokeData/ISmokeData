@@ -60,7 +60,7 @@
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/midjourney-light.svg" alt="midjourney" title="midjourney"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="powerbi" title="powerbi"/></code>
 	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-light.svg" alt="tableau" title="tableau"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" title="kaggle"/></code>
+	<code><img width="50" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/kaggle-light.svg" alt="kaggle" title="kaggle"/></code>
     <i class="fa-brands fa-kaggle"></i>
 </details> 
 </div>
