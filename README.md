@@ -84,9 +84,9 @@ Below are the few resources.👇<br>
   <details>
 <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 	  
-✨ Deep Learning [Repository](https://github.com/ISmokeData/Deep_Learning)
-✨ PyTorch Beginner to Advance with [Code](https://github.com/ISmokeData/PyTorch)
-✨ IBM Employee Attrition [Project](https://github.com/ISmokeData/IBM_Empolyee_Attrition_FullStack_site)
+✨ Deep Learning [Repository](https://github.com/ISmokeData/Deep_Learning) <br>
+✨ PyTorch Beginner to Advance with [Code](https://github.com/ISmokeData/PyTorch) <br>
+✨ IBM Employee Attrition [Project](https://github.com/ISmokeData/IBM_Empolyee_Attrition_FullStack_site) <br>
 
   </details>
 
