@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/SemicolonML/SemicolonML/blob/007a15e5634f71d65a17a9e4387b1c91de44924f/Untitled%20design%20(1).gif)
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/dhanraj-verma-280684222/">Dhanraj</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://ismokedata.github.io/Portfolio/">Dhanraj</a> </h1>
 <!--- Adding Header Elements -->
 <p align="center">
   <!--<a href="http://sanjaykv.com/">Portfolios</a> -  -->
@@ -8,7 +8,7 @@
   <a href="https://www.kaggle.com/dhanrajcodes">Kaggle</a> -
   <!-- <a href="https://recodehive.com/">Website</a> - -->
   <!-- <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> - -->
-  <a href="https://topmate.io/dhanraj_verma">Contact me.</a> 
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNvNQmSnSzzKZWZqgqtJZLXTzdVPSKdJbxBGqJgSrRCzlzvtHJDzfBPSTsGpvjPwXlmbmL">Contact me.</a> 
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
