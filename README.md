@@ -41,6 +41,7 @@
 	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-light.svg" alt="streamlit" title="streamlit"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" title="Selenium"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Light.svg" alt="Regex" title="Regex"/></code>
+	<code><img width="35" src="https://res.cloudinary.com/apideck/icons/spacy-io" alt="spacy" title="spacy"/></code>
 	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/huggingface-light.svg" alt="huggingface" title="huggingface"/></code><br>
 <h3>Tools</h3>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/></code>
@@ -51,6 +52,10 @@
 	<code><img width="35" src="https://skillicons.dev/icons?i=stackoverflow&theme=dark&perline=15" alt="stackoverflow" title="stakeoverflow"/></code>
 	<code><img width="35" src="https://github.com/syvixor/skills-icons/blob/main/icons/perplexity.svg" alt="perplexity" title="perplexity"/></code>
 	<code><img width="35" src="https://github.com/syvixor/skills-icons/blob/main/icons/grok.svg" alt="grok" title="grok"/></code>
+	<code><img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYLUWsfHnwON_SjyaCNcWJw2rc-7qm_58MDw&s" alt="gemini" title="gemini"/></code>
+	<code><img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnM91o7r1wba01xcHW15PLqbe-ONaTIjOO3g&s" alt="claude" title="claude"/></code>
+	<code><img width="35" src="https://custom.typingmind.com/assets/models/deepseek.png" alt="deepseek" title="deepseek"/></code>
+	<code><img width="35" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/mistral-ai-icon-3djkpjyks645ah3bg6zbxo.png/mistral-ai-icon-72wf09t6yllwqfky4jm3ql.png?_a=DAJFJtWIZAAC" alt="mistral-ai" title="mistral-ai"/></code>
 <!--	
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/midjourney-light.svg" alt="midjourney" title="midjourney"/></code>
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="powerbi" title="powerbi"/></code>
@@ -59,7 +64,7 @@
 <h3>Code Editor</h3>
 	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" title="googlecolaboratory"/></code>
+	<code><img width="35" src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" title="googlecolaboratory"/></code>
 		
 ## Certification 🪶
 📃Data Science Master [Certificate](https://drive.google.com/file/d/1nJv-Ric5wghLRQJOpHiH6IRTW9r-jF5I/view?usp=drive_link) <br>
