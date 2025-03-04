@@ -21,44 +21,45 @@
 <summary><b>⚒️Tech Stack/ Certification</b></summary><br>
 <h3>Language</h3><code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" title="Python"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" title="HTML"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg" alt="CSS" title="CSS"/></code>
+	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" title="CSS"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL"/></code><br>
-<h3>Framework and Libraries</h3><code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-light.svg" alt="numpy" title="numpy"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-light.svg" alt="pandas" title="pandas"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/matplotlib-light.svg" alt="matplotlib" title="matplotlib"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/seaborn-light.svg" alt="seaborn" title="seaborn"/></code>
+<h3>Framework and Libraries</h3><code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-light.svg" alt="numpy" title="numpy"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-light.svg" alt="pandas" title="pandas"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/matplotlib-light.svg" alt="matplotlib" title="matplotlib"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" alt="seaborn" title="seaborn"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg" alt="Flask" title="Flask"/></code>
-	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" alt="SciKitLearn title="SciKitLearn"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scikitlearn-auto.svg" alt="SciKitLearn title="SciKitLearn"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" title="TensorFlow"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg" alt="Pytorch" title="Pytorch"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg" alt="Open CV" title="Open CV"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons%232/keras-light.svg" alt="keras" title="keras"/></code> <br>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" title="Docker"/></code>
 	<code><img width="35" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/yaml-light.svg" alt="yaml" title="yaml"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/yaml-auto.svg" alt="yaml" title="yaml"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" title="AWS"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/llamaindex-light.svg" alt="llamaindex" title="llamaindex"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/langchain-light.svg" alt="langchain" title="langchain"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/streamlit-light.svg" alt="streamlit" title="streamlit"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/llamaindex-auto.svg" alt="llamaindex" title="llamaindex"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/langchain-light.svg" alt="langchain" title="langchain"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-light.svg" alt="streamlit" title="streamlit"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium" title="Selenium"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Light.svg" alt="Regex" title="Regex"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/huggingface-light.svg" alt="huggingface" title="huggingface"/></code><br>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/huggingface-light.svg" alt="huggingface" title="huggingface"/></code><br>
 <h3>Tools</h3>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" title="Git"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" title="GitHub"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Light.svg" alt="Anaconda" title="Anaconda"/></code>
-	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="Fast API" title="Fast API"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/bard-light.svg" alt="bard" title="bard"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/chatgpt.svg" alt="chatgpt" title="chatgpt"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/copilot-light.svg" alt="copilot" title="copilot"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-light.svg" alt="chatgpt" title="chatgpt"/></code>
+	<code><img width="35" src="https://github.com/syvixor/skills-icons/blob/main/icons/microsoftcopilot.svg" alt="copilot" title="copilot"/></code>
+	<code><img width="35" src="https://skillicons.dev/icons?i=stackoverflow&theme=dark&perline=15" alt="stackoverflow" title="stakeoverflow"/></code>
+	<code><img width="35" src="https://github.com/syvixor/skills-icons/blob/main/icons/perplexity.svg" alt="perplexity" title="perplexity"/></code>
+	<code><img width="35" src="https://github.com/syvixor/skills-icons/blob/main/icons/grok.svg" alt="grok" title="grok"/></code>
+<!--	
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/midjourney-light.svg" alt="midjourney" title="midjourney"/></code>
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg" alt="powerbi" title="powerbi"/></code>
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/tableau-light.svg" alt="tableau" title="tableau"/></code> <br>
+	-->
 <h3>Code Editor</h3>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
+	<code><img width="35" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="35" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/main/icons/googlecolaboratory-light.svg" title="googlecolaboratory"/></code>
-	<code><img width="35" src="https://github.com/onemarc/tech-icons/blob/292cfceecce6a863e9a10216c1c730d3a1a02ff5/icons/pycharm-light.svg" title="pycharm"/></code> <br>
 		
 ## Certification 🪶
 📃Data Science Master [Certificate](https://drive.google.com/file/d/1nJv-Ric5wghLRQJOpHiH6IRTW9r-jF5I/view?usp=drive_link) <br>
